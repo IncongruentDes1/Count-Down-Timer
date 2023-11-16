@@ -21,7 +21,6 @@ public class Main {
 	public static void main(String[] args) {
 		createInterface();
 	}
-	
 	public static void createInterface() {
 		
 		// - Pause set up
