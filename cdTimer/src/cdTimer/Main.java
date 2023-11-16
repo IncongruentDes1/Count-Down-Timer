@@ -18,7 +18,6 @@ public class Main {
 	  static timerSet time;
 	  static Thread countdownThread;
 	
-
 	public static void main(String[] args) {
 		createInterface();
 	}
